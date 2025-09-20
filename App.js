@@ -5,7 +5,7 @@ export default function App() {
   const [posts, setPosts] = useState([
     {
       id: 1,
-      author: "Russel Pellazar",
+      author: "Pogoy Jordan",
       text: "Happy Birthday Self :)",
       likes: 0,
       isLiked: false,
